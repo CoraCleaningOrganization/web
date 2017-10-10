@@ -591,3 +591,8 @@ xclip
 .cd-headline.clip b.is-visible {
   opacity: 1;
 }
+
+
+        .h1 .h2 {
+            color:#29abe2 !important;
+        }
