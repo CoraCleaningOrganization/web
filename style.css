@@ -384,7 +384,7 @@ textarea {
   font-family: 'Ranga', cursive;
 }
 .marshall-btn {
-  background-color: #f61067;
+  background-color: #29abe2;
   border-radius: 0;
   display: inline-block;
   margin: 0 15px 0 0;
@@ -396,7 +396,7 @@ textarea {
   white-space: nowrap;
   position: relative;
   color: #FFF;
-  border: 1px solid #f61067;
+  border: 1px solid #29abe2;
 }
 .marshall-btn.marshall-btn-text {
   background-color: transparent;
@@ -424,7 +424,7 @@ textarea {
 }
 .marshall-btn.marshall-btn-text:hover i,
 .marshall-animate-open.marshall-btn i{
-  color: #f61067;
+  color: #29abe2;
 }
 .marshall-hide {
   display: none;
@@ -527,7 +527,7 @@ body.mrs-white .morph-button-modal-2 .morph-content {
   vertical-align: middle;
 }
 .marshall-load {
-  background-color: #f61067;
+  background-color: #29abe2;
   border-radius: 50%;
   height: 60px;
   margin: auto;
@@ -650,7 +650,7 @@ ul.marshall-social-links li {
 .marshall-social-links a:hover {
   -webkit-transform: translate3d(0px, -2px, 0px);
   transform: translate3d(0px, -2px, 0px);
-  color: #f61067;
+  color: #29abe2;
 }
 
 
@@ -746,7 +746,7 @@ ul.marshall-social-links li {
   text-transform: uppercase;
 }
 .marshall-the_content > h2 span {
-  color: #f61067;
+  color: #29abe2;
 }
 .mCSB_inside > .mCSB_container {
   margin-right: 0;
@@ -1283,7 +1283,7 @@ span.close-newsletter i{
     to{transform:rotate(360deg);}
 }
 .marshall-newsletter-content .marshall_submit {
-  background-color: #f61067;
+  background-color: #29abe2;
   border: 0 none;
   display: block;
   width: 100%;
@@ -1672,7 +1672,7 @@ canvas.fireworks {
 
   50% {
     transform: scale3d(1.05, 1.05, 1.05);
-    background-color: #f61067;
+    background-color: #29abe2;
     color: #FFF;
   }
 
@@ -3097,8 +3097,8 @@ body.mrs-fill .marshall-btn {
 body.mrs-fill .marshall-btn:hover, 
 body.mrs-fill .marshall-btn:focus, 
 body.mrs-fill .marshall-btn:active {
-  background-color: #f61067;
-  border-style: #f61067;
+  background-color: #29abe2;
+  border-style: #29abe2;
 }
 
 .marshall-animate-content[data-animation="mrs-lightSpeedIn"] {
@@ -3619,7 +3619,7 @@ body.mrs-v51 .mrs-owl-text-slider h2 {
   text-transform: uppercase;
 }
 body.mrs-v51 .mrs-owl-text-slider h2 span{
-  color: #f61067;
+  color: #29abe2;
 }
 body.mrs-v51 .footer-copyright p {
   background-color: rgba(51, 51, 51, 0.7);
